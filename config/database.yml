@@ -41,8 +41,8 @@ production:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: nowka_production
+  database: paszo_nowka_production
   pool: 5
-  username: root
-  password: 
+  username: paszo_nowka
+  password: nowka
   socket: /var/run/mysqld/mysqld.sock
