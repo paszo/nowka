@@ -1,7 +1,7 @@
 set :application, "nowka"
 set :repository,  "git://github.com/paszo/nowka.git"
 set :user, 'paszo'
-set :deploy_to, "/home/paszo/nowka"
+set :deploy_to, "/home/paszo/public_html/nowka"
 set :scm, 'git'
 set :use_sudo, false
 # Or: `accurev`, `bzr`, `cvs`, `darcs`, `git`, `mercurial`, `perforce`, `subversion` or `none`
