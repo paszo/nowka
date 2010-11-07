@@ -5,3 +5,4 @@ doc/api
 doc/app
 *.swp
 *~
+config/deploy.rb
