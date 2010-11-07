@@ -1,7 +1,0 @@
-#!/bin/sh
-#{deploy_to}/current/script/process/spawner \
-mongrel \
---environment=production \
---instances=1 \
---address=paszo.ayz.pl \
---port=8000
